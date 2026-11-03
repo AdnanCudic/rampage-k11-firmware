@@ -1,0 +1,13 @@
+# SDCC build output
+*.asm
+*.ihx
+*.lk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym
+*.bin
+
+__pycache__/
